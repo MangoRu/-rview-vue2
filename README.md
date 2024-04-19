@@ -18,6 +18,10 @@
 RView Design
     <h3>基于 iView 二次封装的前端UI公共组件库 RView Design（Based on Vue.js 2）</h3>
 </h1>
+
+RView 组件库使用前置条件：项目基于Vue2.js 且使用ViewUI组件库！
+
+一个最简单的使用案例库：[rview-vue2-case](https://gitea.com/MangoRu/rview-vue2-case)
 <br>
 
 ## Docs
