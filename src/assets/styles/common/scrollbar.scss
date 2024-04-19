@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/* 整个滚动条, width对垂直滚动条有效,height水平 */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 5px;
+}
+
+/* 滚动条有滑块的轨道部分 */
+::-webkit-scrollbar-track-piece {
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+/* 滚动条滑块(竖向:vertical 横向:horizontal) */
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background-color: rgb(37, 145, 242);
+    //background-color: #b7b7b7;
+    border-radius: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #cccdcc;
+}
+
+/* 同时有垂直和水平滚动条时交汇的部分(右下角汇合处的样式) */
+::-webkit-scrollbar-corner {
+    display: block;    /* 修复交汇时出现的白块 */
+}

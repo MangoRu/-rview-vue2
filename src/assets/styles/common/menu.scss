@@ -1,0 +1,31 @@
+.ivu-menu-vertical.ivu-menu-light:after {
+  background: transparent;
+}
+
+.ivu-menu-vertical .ivu-menu-item {
+  padding: 11px 24px;
+}
+
+.side-bar-menu {
+  min-height: 100%;
+  letter-spacing: 1px;
+
+  .menu {
+    padding: 12px 26px;
+    //margin-bottom: 4px;
+  }
+}
+
+.menu-active {
+  width: 100%;
+  color: #1890ff;
+  background-color: #e6f7ff;
+}
+
+.drop-text {
+  padding: 10px 20px;
+}
+
+.menu-item-border-right {
+  border-right: 1px solid rgba(234, 234, 234, 1) !important;
+}

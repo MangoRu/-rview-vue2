@@ -1,0 +1,135 @@
+[
+  {
+    "type": "common",
+    "icon": "md-browsers",
+    "label": "Layout 布局",
+    "value": "layout"
+  },
+  {
+    "type": "common",
+    "icon": "md-square-outline",
+    "label": "Panel 卡片面板",
+    "value": "panel"
+  },
+  {
+    "type": "common",
+    "icon": "logo-tumblr",
+    "label": "PageHeader 页头",
+    "value": "page-header"
+  },
+  {
+    "type": "common",
+    "icon": "md-text",
+    "label": "TitleText 标题文字",
+    "value": "title-text"
+  },
+  {
+    "type": "common",
+    "icon": "ios-navigate",
+    "label": "Breadcrumb 面包屑导航",
+    "value": "breadcrumb"
+  },
+  {
+    "type": "common",
+    "icon": "md-bug",
+    "label": "PageError 异常",
+    "value": "page-error"
+  },
+  {
+    "type": "common",
+    "icon": "md-outlet",
+    "label": "Result 处理结果",
+    "value": "result"
+  },
+  {
+    "type": "common",
+    "icon": "ios-flower",
+    "label": "Loading 加载中",
+    "value": "loading"
+  },
+  {
+    "type": "common",
+    "icon": "md-card",
+    "label": "Card 卡片展示",
+    "value": "card"
+  },
+  {
+    "type": "common",
+    "icon": "md-pulse",
+    "label": "NumberInfo 数字趋势标记",
+    "value": "number-info"
+  },
+  {
+    "type": "common",
+    "icon": "md-search",
+    "label": "SearchRemote 远程搜索",
+    "value": "search-remote"
+  },
+  {
+    "type": "common",
+    "icon": "md-clipboard",
+    "label": "Clipboard 复制板",
+    "value": "clipboard"
+  },
+  {
+    "type": "common",
+    "icon": "ios-list-box",
+    "label": "ItemsShow 多个列表项",
+    "value": "items-show"
+  },
+  {
+    "type": "common",
+    "icon": "md-checkbox",
+    "label": "CheckboxAll 多选列表",
+    "value": "checkbox-all"
+  },
+  {
+    "type": "common",
+    "icon": "ios-list-box",
+    "label": "InputSelectButton 选择列表",
+    "value": "input-select-button"
+  },
+  {
+    "type": "common",
+    "icon": "ios-apps",
+    "label": "TableAuto 自定义表格",
+    "value": "table-auto"
+  },
+  {
+    "type": "common",
+    "icon": "md-paper",
+    "label": "FormCustom 搜索表单",
+    "value": "form-custom"
+  },
+  {
+    "type": "common",
+    "icon": "md-paper",
+    "label": "FormCreate 动态表单",
+    "value": "form-create"
+  },
+  {
+    "type": "the",
+    "label": "PageHeader* 定制页头",
+    "value": "page-header-gm"
+  },
+  {
+    "type": "custom",
+    "label": "Auth 鉴权",
+    "value": "auth"
+  },
+  {
+    "type": "custom",
+    "label": "Editor 富文本编辑器",
+    "value": "editor"
+  },
+  {
+    "type": "custom",
+    "label": "FileUpload 文件上传",
+    "value": "file-upload"
+  },
+  {
+    "type": "custom",
+    "label": "ImagesUpload 图片上传",
+    "value": "images-upload"
+  }
+]

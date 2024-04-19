@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+// base color
+$success: #19be6b;
+$warning: #ff9900;
+$error: #ed4014;
+$info: #2db7f5;
+
+$primary: #2d8cf0;
+$primaryLight: #5cadff;
+$primaryDark: #2b85e4;
+$white: #fff;
+
+$title: #17233d;
+$content: #515a6e;
+$sub: #808695;
+$disabled: #c5c8ce;
+$border: #dcdee2;
+$divider: #e8eaec;
+$background: #f8f8f9;
+
+$highlightColor: #409eff;
+$usualColor: #515a6e;
+
+$avatarHighLight: #72b7fd;
+
+// sideBar
+$menuText: #bfcbd9;              // 侧边栏的文字的颜色
+$menuActiveText: #409EFF;        // 当前选中侧边栏的文字的颜色
+$subMenuActiveText: #f4f4f5;     // 当前选中一级菜单的颜色
+$menuBg: #304156;                // 侧边栏的背景色
+$menuHover: #263445;             // hover 的颜色
+$subMenuBg: #1f2d3d;             // 一级菜单下二级菜单的背景色
+$subMenuHover: #001528;          // 二级菜单的 hover 背景色
+$sideBarWidth: 210px;
+
+:export {
+  error: $error;
+  info: $info;
+  primary: $primary;
+  primaryLight: $primaryLight;
+  primaryDark: $primaryDark;
+  title: $title;
+  content: $content;
+  sub: $sub;
+  disabled: $disabled;
+  border: $border;
+  divider: $divider;
+  background: $background;
+  highlightColor: $highlightColor;
+  usualColor: $usualColor;
+  menuText: $menuText;
+  menuActiveTex: $menuActiveText;
+  subMenuActive: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}
